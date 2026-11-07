@@ -6,13 +6,13 @@
 
 ## 准备篇
 
-- [第一章　前言](preface.md)
-- [第二章　安全要求](00-prepare/safety.md)
-- [第三章　先把工具准备好](00-prepare/prepare.md)
+- [第一章　前言](01-preface.md)
+- [第二章　安全要求](00-prepare/02-safety.md)
+- [第三章　先把工具准备好](00-prepare/03-prepare.md)
 
 ## 第一部　开口即用
 
-- [第四章　「你想想」](01-oral/xiangxiang.md)
+- [第四章　「你想想」](01-oral/04-xiangxiang.md)
 - 「你改改」（待发布）
 - 「你找找」（待写）
 
