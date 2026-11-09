@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+<defs>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3.2" flood-color="#1B2A5B" flood-opacity="0.08"/>
+    </filter>
+    <marker id="ia" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4A6BF5"/></marker>
+  </defs>
+<rect x="270" y="40" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="72" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,60) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M4.2 5.4h9.6a2.4 2.4 0 0 1 2.4 2.4v3.6a2.4 2.4 0 0 1-2.4 2.4H8.4l-3.6 2.8v-2.8H4.2A2.4 2.4 0 0 1 1.8 11.4V7.8a2.4 2.4 0 0 1 2.4-2.4z"/><path d="M19.2 10.2h.6a2.4 2.4 0 0 1 2.4 2.4v3.6a2.4 2.4 0 0 1-2.4 2.4h-1v2.6l-3.4-2.6h-3.2"/></g>
+<text x="328" y="72" dominant-baseline="middle" font-size="20" fill="#1F2937">交代目标与边界</text>
+<rect x="270" y="130" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="162" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,150) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="328" y="162" dominant-baseline="middle" font-size="20" fill="#1F2937">理解任务与缺项</text>
+<rect x="270" y="220" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="252" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,240) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="6" cy="6" r="2.4"/><circle cx="18" cy="18" r="2.4"/><path d="M8.4 6H15a3 3 0 0 1 0 6h-6a3 3 0 0 0 0 6h6.6"/></g>
+<text x="328" y="252" dominant-baseline="middle" font-size="20" fill="#1F2937">制定执行步骤</text>
+<rect x="270" y="310" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="342" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,330) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14.2 6.4a3.6 3.6 0 0 0 4.6 4.6l-8.6 8.6a2.3 2.3 0 0 1-3.2-3.2z"/><path d="M17.6 4.4l2 2"/></g>
+<text x="328" y="342" dominant-baseline="middle" font-size="20" fill="#1F2937">调用资料与工具</text>
+<rect x="270" y="400" width="340" height="64" rx="8" fill="#FCF3D7" stroke="#D8B65A" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="432" r="19" fill="#FBF0D2"/>
+<g transform="translate(288,420) scale(1)" fill="none" stroke="#9A7B22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="12" cy="12" r="8.4"/><path d="M8.4 12.3l2.5 2.5 4.7-5"/></g>
+<text x="328" y="432" dominant-baseline="middle" font-size="20" fill="#1F2937">结果是否满足要求</text>
+<rect x="40" y="520" width="260" height="64" rx="8" fill="#FDF3E3" stroke="#DBA96B" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="70" cy="552" r="19" fill="#FBEBD5"/>
+<g transform="translate(58,540) scale(1)" fill="none" stroke="#A9702A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M12 4.2 21 19.6H3z"/><path d="M12 9.6v4.4M12 16.8v.6"/></g>
+<text x="98" y="552" dominant-baseline="middle" font-size="20" fill="#1F2937">等待人工确认</text>
+<rect x="610" y="514" width="270" height="74" rx="8" fill="#EFF7F1" stroke="#CBE3D3" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="640" cy="551" r="19" fill="#E2F1E8"/>
+<g transform="translate(628,539) scale(1)" fill="none" stroke="#2F8A5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="668" y="540" dominant-baseline="middle" font-size="20" fill="#1F2937">交付文件与待确认事</text>
+<text x="668" y="562" dominant-baseline="middle" font-size="20" fill="#1F2937">项</text>
+<path d="M440,104 L440,130" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,194 L440,220" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,284 L440,310" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,374 L440,400" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,464 L440,490 Q440,500 430,500 L180,500 Q170,500 170,510 L170,520 Q170,520 NaN,NaN L170,520" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<text x="300" y="494" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">需要授权</text>
+<path d="M440,464 L440,490 Q440,500 450,500 L735,500 Q745,500 745,510 L745,517 Q745,520 745,517 L745,514" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<text x="600" y="494" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">完成</text>
+<path d="M610,432 L670.5405405405405,452.7567567567568 Q680,456 680,446 L680,282 Q680,272 670.3847605235918,269.2527887210262 L610,252" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<text x="690" y="360" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">继续处理</text>
+<path d="M40,552 L30,552 Q20,552 20,542 L20,382 Q20,372 29.92876838486922,370.8085477938157 L270,342" fill="none" stroke="#4A6BF5" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#ia)"/>
+</svg>

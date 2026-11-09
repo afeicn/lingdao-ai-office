@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 560" width="880" height="560" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+<defs>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3.2" flood-color="#1B2A5B" flood-opacity="0.08"/>
+    </filter>
+    <marker id="ia" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4A6BF5"/></marker>
+  </defs>
+<rect x="40" y="60" width="250" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="70" cy="92" r="19" fill="#EEF3FE"/>
+<g transform="translate(58,80) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><rect x="6.5" y="6.5" width="11" height="11" rx="2.2"/><rect x="9.8" y="9.8" width="4.4" height="4.4" rx="1"/><path d="M12 2.6v3.9M12 17.5v3.9M2.6 12h3.9M17.5 12h3.9"/></g>
+<text x="98" y="81" dominant-baseline="middle" font-size="20" fill="#1F2937">算法：怎样学习与</text>
+<text x="98" y="103" dominant-baseline="middle" font-size="20" fill="#1F2937">推理</text>
+<rect x="315" y="60" width="250" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="345" cy="92" r="19" fill="#EEF3FE"/>
+<g transform="translate(333,80) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="373" y="81" dominant-baseline="middle" font-size="20" fill="#1F2937">数据：提供什么样</text>
+<text x="373" y="103" dominant-baseline="middle" font-size="20" fill="#1F2937">本与依据</text>
+<rect x="590" y="60" width="250" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="620" cy="92" r="19" fill="#EEF3FE"/>
+<g transform="translate(608,80) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M13 2.8 5.6 13.4h5.2L10.6 21l7.6-10.8h-5.2z"/></g>
+<text x="648" y="81" dominant-baseline="middle" font-size="20" fill="#1F2937">算力：训练和运行</text>
+<text x="648" y="103" dominant-baseline="middle" font-size="20" fill="#1F2937">投入</text>
+<rect x="315" y="200" width="250" height="72" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="345" cy="236" r="19" fill="#EEF3FE"/>
+<g transform="translate(333,224) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><rect x="4.6" y="8.4" width="14.8" height="10.8" rx="3"/><path d="M12 4.6v3.8"/><circle cx="12" cy="3.6" r="1.3"/><circle cx="9.2" cy="13.4" r="1.3"/><circle cx="14.8" cy="13.4" r="1.3"/><path d="M9.6 16.4h4.8"/></g>
+<text x="373" y="225" dominant-baseline="middle" font-size="20" fill="#1F2937">模型能力与运行效</text>
+<text x="373" y="247" dominant-baseline="middle" font-size="20" fill="#1F2937">果</text>
+<rect x="315" y="320" width="250" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="345" cy="352" r="19" fill="#EEF3FE"/>
+<g transform="translate(333,340) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="12" cy="12" r="8.4"/><path d="M8.4 12.3l2.5 2.5 4.7-5"/></g>
+<text x="373" y="352" dominant-baseline="middle" font-size="20" fill="#1F2937">业务任务中的表现</text>
+<rect x="315" y="430" width="250" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="345" cy="462" r="19" fill="#EEF3FE"/>
+<g transform="translate(333,450) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="373" y="451" dominant-baseline="middle" font-size="20" fill="#1F2937">评测、反馈与资源</text>
+<text x="373" y="473" dominant-baseline="middle" font-size="20" fill="#1F2937">调整</text>
+<path d="M165,124 L165,150 Q165,160 175,160 L430,160 Q440,160 440,170 L440,200 Q440,200 NaN,NaN L440,200" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,124 L440,200" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M715,124 L715,150 Q715,160 705,160 L450,160 Q440,160 440,170 L440,200 Q440,200 NaN,NaN L440,200" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,272 L440,320" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,384 L440,430" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M315,462 L24,462 Q14,462 14,452 L14,102 Q14,92 24,92 L40,92" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+</svg>

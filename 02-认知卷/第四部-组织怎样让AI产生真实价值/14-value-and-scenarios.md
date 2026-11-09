@@ -6,12 +6,7 @@
 
 组织需要把“AI要产生价值”转化成具体目标。本章所说的GET，分别取Growth、Efficiency、Transformation三个词的首字母，对应增长、效率和转型。管理者可以先用这三个方向判断项目希望带来的业务结果，再把目标落实到场景、资源和评价指标。
 
-```mermaid
-flowchart TD
-    V["AI项目的业务价值"] --> G["G · Growth｜增长<br/>拓展服务、产品或业务机会"]
-    V --> E["E · Efficiency｜效率<br/>减少耗时、成本或差错"]
-    V --> T["T · Transformation｜转型<br/>重组流程、岗位或资源配置"]
-```
+![f14-1](../figures/f14-1.png)
 
 *图14-1　GET从增长、效率和转型三个方向识别AI项目的业务价值。*
 
@@ -72,13 +67,7 @@ flowchart TD
 
 OECD《数字经济与社会展望2026》估计，2025年有10名及以上员工的成员经济体企业中，约20%使用AI，大型企业采用比例约52%。采用率说明组织是否使用人工智能，不能证明部署后的产出提高。报告也记录了企业遇到的技能、系统兼容、数据质量、隐私、法规不确定和成本障碍。对党政机关和央国企而言，国际企业数据可作趋势参照，不能替代本单位的应用评估。[OECD《数字经济与社会展望2026》](https://www.oecd.org/en/publications/oecd-digital-economy-and-society-outlook-2026_022ed474-en/full-report/digital-technology-diffusion-and-the-economy_b355e780.html)
 
-```mermaid
-xychart
-    title "OECD成员经济体企业AI采用情况（2025年）"
-    x-axis ["10人及以上企业", "大型企业"]
-    y-axis "企业比例（%）" 0 --> 60
-    bar [20, 52]
-```
+![f14-2](../figures/f14-2.png)
 
 *图14-2　数据为OECD成员经济体调查估算；企业采用AI不等于项目已经产生业务收益。来源：[OECD《数字经济与社会展望2026》](https://www.oecd.org/en/publications/oecd-digital-economy-and-society-outlook-2026_022ed474-en/full-report/digital-technology-diffusion-and-the-economy_b355e780.html)。*
 
