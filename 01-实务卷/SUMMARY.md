@@ -4,7 +4,7 @@
 
 # 目录
 
-当前发布第一至第六章。
+当前发布第一至第十一章。
 
 ## 准备篇
 
@@ -18,6 +18,14 @@
 - [第五章　「你找找」](01-oral/05-zhaozhao.md)
 - [第六章　阶段一进阶课｜手机语音与远程续办](01-oral/06-advanced-mobile.md)
 
+## 阶段二　就地取材
+
+- [第七章　「你看看」](02-materials/07-kankan.md)
+- [第八章　「你改改」](02-materials/08-gaigai.md)
+- [第九章　「你学学」](02-materials/09-xuexue.md)
+- [第十章　「你比比」](02-materials/10-bibi.md)
+- [第十一章　阶段二进阶课｜会议录音与转写](02-materials/11-advanced-audio.md)
+
 ## 后续章节
 
-第七至第二十章后续发布。
+第十二至第二十章后续发布。
