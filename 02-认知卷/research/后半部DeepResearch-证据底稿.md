@@ -110,7 +110,7 @@ ILO的职业暴露指数评估工作任务受到生成式人工智能影响的�
 - METR任务跨度数据主要覆盖软件工程、机器学习和网络安全等定义清楚的任务；超过16小时的评测受到任务集饱和影响。任务跨度不是工作岗位覆盖率，也不代表模型可以在任意领域持续独立工作。
 - 因此，教材将“技术奇点已经到来”明确写成阶段判断：AI已经参与AI研发，反馈加速机制开始出现；完全自主选择研究目标、设计并训练后继模型的闭环尚未实现。指数级加速是值得组织准备的趋势路径，不能直接推断每类能力、行业产出和社会变化都会按同一速率增长。
 
-### Personal Agent与企业Agent
+### 个人智能体与企业Agent
 
 - OpenClaw官方个人助手文档介绍了将消息渠道连接到Agent的部署方式；OpenAI产品说明介绍了浏览器、文件、终端等工具用于多步骤任务。正文将产品方说明标为产品能力，不据此推导所有任务都能稳定完成。
 - Alex Finn的电话和订餐故事来自当事人讲述、原帖和媒体报道，正文保留未独立核验的说明；深圳OpenClaw安装活动按财新报道口径使用。
@@ -130,7 +130,7 @@ ILO的职业暴露指数评估工作任务受到生成式人工智能影响的�
 | 央企应用案例 | [国务院国资委转载新华社报道](https://wap.sasac.gov.cn/n2588025/n2588139/c35659709/content.html)；[国务院国资委2026年系列成果](https://wap.sasac.gov.cn/n2588020/n2588072/n2590902/n2590904/c35690985/content.html) | 政府转载的案例和公开成果信息 |
 | 企业AI采用 | [Stanford HAI《2026 AI Index》经济章节](https://hai.stanford.edu/ai-index/2026-ai-index-report/economy) | 调查自报数据，说明Agent部署仍早期 |
 | 数据安全 | [《网络数据安全管理条例》](https://app.www.gov.cn/govdata/gov/202409/30/520076/article.html) | 使用第十五、十六条讨论政务数据处理权限和责任 |
-| Personal Agent产品与项目 | [OpenClaw个人助手设置](https://docs.openclaw.ai/start/openclaw/index.html)；[OpenAI ChatGPT Agent介绍](https://openai.com/index/introducing-chatgpt-agent/)；[财新OpenClaw安装活动报道](https://companies.caixin.com/2026-03-07/102420702.html) | 产品说明与媒体报道按各自来源属性使用 |
+| 个人智能体产品与项目 | [OpenClaw个人助手设置](https://docs.openclaw.ai/start/openclaw/index.html)；[OpenAI ChatGPT Agent介绍](https://openai.com/index/introducing-chatgpt-agent/)；[财新OpenClaw安装活动报道](https://companies.caixin.com/2026-03-07/102420702.html) | 产品说明与媒体报道按各自来源属性使用 |
 
 原始课程复核主要参考《5月人大课/第一课-AI大变革时代-人大.pptx》第3至8页、第13页、第17页、第20至38页、第47页和第80至81页，以及《1028天大课程/天津大学AI+HR-第一讲-AI大变革时代.pptx》的Agent、技术史、组织转型与数字员工相关内容。课程材料提供讲师观点和课堂案例，正文中的行业数据与近期进展另以公开来源核对。
 
