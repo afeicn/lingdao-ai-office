@@ -41,10 +41,11 @@
 <path d="M440,194 L440,220" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,284 L440,310" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,374 L440,400" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
-<path d="M440,464 L440,476 Q440,486 430,486 L207,486 Q200,486 200,493 L200,500 Q200,500 NaN,NaN L200,500" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,464 L440,476 Q440,486 430,486 L207,486 Q200,486 200,493 L200,500" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="330" y="480" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">是</text>
-<path d="M440,464 L440,476 Q440,486 450,486 L633,486 Q640,486 640,493 L640,500 Q640,500 NaN,NaN L640,500" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,464 L440,476 Q440,486 450,486 L633,486 Q640,486 640,493 L640,500" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="560" y="480" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">否</text>
-<path d="M200,564 L200,580 Q200,590 210,590 L395,590 Q400,590 400,595 L400,595 Q400,600 405,600 L440,600" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
-<path d="M640,564 L640,580 Q640,590 630,590 L485,590 Q480,590 480,595 L480,595 Q480,600 475,600 L440,600" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M200,564 L200,580 Q200,585 210,585 L440,585" fill="none" stroke="#4A6BF5" stroke-width="1.6"/>
+<path d="M640,564 L640,580 Q640,585 630,585 L440,585" fill="none" stroke="#4A6BF5" stroke-width="1.6"/>
+<path d="M440,585 L440,600" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 </svg>

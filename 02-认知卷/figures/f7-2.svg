@@ -34,9 +34,9 @@
 <g transform="translate(333,450) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
 <text x="373" y="451" dominant-baseline="middle" font-size="20" fill="#1F2937">评测、反馈与资源</text>
 <text x="373" y="473" dominant-baseline="middle" font-size="20" fill="#1F2937">调整</text>
-<path d="M165,124 L165,150 Q165,160 175,160 L430,160 Q440,160 440,170 L440,200 Q440,200 NaN,NaN L440,200" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M165,124 L165,150 Q165,160 175,160 L430,160 Q440,160 440,170 L440,200" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,124 L440,200" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
-<path d="M715,124 L715,150 Q715,160 705,160 L450,160 Q440,160 440,170 L440,200 Q440,200 NaN,NaN L440,200" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M715,124 L715,150 Q715,160 705,160 L450,160 Q440,160 440,170 L440,200" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,272 L440,320" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,384 L440,430" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M315,462 L24,462 Q14,462 14,452 L14,102 Q14,92 24,92 L40,92" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
