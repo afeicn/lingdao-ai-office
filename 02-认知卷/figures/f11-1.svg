@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+<defs>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3.2" flood-color="#1B2A5B" flood-opacity="0.08"/>
+    </filter>
+    <marker id="ia" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4A6BF5"/></marker>
+  </defs>
+<rect x="200" y="34" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="230" cy="66" r="19" fill="#EEF3FE"/>
+<g transform="translate(218,54) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="258" y="66" dominant-baseline="middle" font-size="20" fill="#1F2937">摄像头、触觉和关节传感器</text>
+<rect x="200" y="120" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="230" cy="152" r="19" fill="#EEF3FE"/>
+<g transform="translate(218,140) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="258" y="152" dominant-baseline="middle" font-size="20" fill="#1F2937">感知：识别物体与环境</text>
+<rect x="200" y="206" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="230" cy="238" r="19" fill="#EEF3FE"/>
+<g transform="translate(218,226) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="6" cy="6" r="2.4"/><circle cx="18" cy="18" r="2.4"/><path d="M8.4 6H15a3 3 0 0 1 0 6h-6a3 3 0 0 0 0 6h6.6"/></g>
+<text x="258" y="238" dominant-baseline="middle" font-size="20" fill="#1F2937">任务规划：分解目标</text>
+<rect x="200" y="292" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="230" cy="324" r="19" fill="#EEF3FE"/>
+<g transform="translate(218,312) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><rect x="6.5" y="6.5" width="11" height="11" rx="2.2"/><rect x="9.8" y="9.8" width="4.4" height="4.4" rx="1"/><path d="M12 2.6v3.9M12 17.5v3.9M2.6 12h3.9M17.5 12h3.9"/></g>
+<text x="258" y="324" dominant-baseline="middle" font-size="20" fill="#1F2937">运动规划与控制</text>
+<rect x="200" y="378" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="230" cy="410" r="19" fill="#EEF3FE"/>
+<g transform="translate(218,398) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><rect x="4.6" y="8.4" width="14.8" height="10.8" rx="3"/><path d="M12 4.6v3.8"/><circle cx="12" cy="3.6" r="1.3"/><circle cx="9.2" cy="13.4" r="1.3"/><circle cx="14.8" cy="13.4" r="1.3"/><path d="M9.6 16.4h4.8"/></g>
+<text x="258" y="410" dominant-baseline="middle" font-size="20" fill="#1F2937">机械臂、手爪或移动底盘执行</text>
+<rect x="200" y="464" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="230" cy="496" r="19" fill="#EEF3FE"/>
+<g transform="translate(218,484) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="258" y="496" dominant-baseline="middle" font-size="20" fill="#1F2937">传感器读取动作结果</text>
+<rect x="560" y="288" width="260" height="72" rx="8" fill="#FDF3E3" stroke="#DBA96B" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="590" cy="324" r="19" fill="#FBEBD5"/>
+<g transform="translate(578,312) scale(1)" fill="none" stroke="#A9702A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M12 3.2 19.2 6v5.4c0 4.6-3 7.6-7.2 9-4.2-1.4-7.2-4.4-7.2-9V6z"/><path d="M9 12.2l2 2 4-4.2"/></g>
+<text x="618" y="324" dominant-baseline="middle" font-size="20" fill="#1F2937">安全控制与紧急停止</text>
+<path d="M370,98 L370,120" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M370,184 L370,206" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M370,270 L370,292" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M370,356 L370,378" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M370,442 L370,464" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M200,496 L160,496 Q150,496 150,486 L150,162 Q150,152 160,152 L200,152" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<text x="100" y="324" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">持续校正</text>
+<path d="M540,324 L560,324" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+</svg>

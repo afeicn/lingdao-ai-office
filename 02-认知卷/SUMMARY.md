@@ -7,7 +7,7 @@
 ## 目录
 
 ### 第一部　AI大变革时代
-- [第一章　Personal Agent时代：交代目标，AI展开行动](第一部-AI大变革时代/01-openclaw-and-agent.md)
+- [第一章　个人智能体时代：交代目标，AI展开行动](第一部-AI大变革时代/01-openclaw-and-agent.md)
 - [第二章　技术奇点已经到来：AI开始参与自我迭代](第一部-AI大变革时代/02-claude-in-research.md)
 - [第三章　数字员工进入组织：Agent接手重复性工作](第一部-AI大变革时代/03-digital-employees.md)
 - [第四章　组织怎样迎接Agent时代：岗位、结构与治理](第一部-AI大变革时代/04-organization-change.md)

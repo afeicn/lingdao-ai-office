@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 660" width="900" height="660" font-family="Microsoft YaHei, PingFang SC, Noto Sans SC, sans-serif">
+<defs>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3.2" flood-color="#1B2A5B" flood-opacity="0.08"/>
+    </filter>
+    <marker id="ia" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4A6BF5"/></marker>
+  </defs>
+<rect x="270" y="30" width="340" height="60" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="60" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,48) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="328" y="60" dominant-baseline="middle" font-size="20" fill="#1F2937">产品Agent：需求与验收条件</text>
+<rect x="270" y="110" width="340" height="60" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="140" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,128) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="6" cy="6" r="2.4"/><circle cx="18" cy="18" r="2.4"/><path d="M8.4 6H15a3 3 0 0 1 0 6h-6a3 3 0 0 0 0 6h6.6"/></g>
+<text x="328" y="140" dominant-baseline="middle" font-size="20" fill="#1F2937">设计Agent：页面与交互方案</text>
+<rect x="270" y="190" width="340" height="60" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="220" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,208) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><rect x="6.5" y="6.5" width="11" height="11" rx="2.2"/><rect x="9.8" y="9.8" width="4.4" height="4.4" rx="1"/><path d="M12 2.6v3.9M12 17.5v3.9M2.6 12h3.9M17.5 12h3.9"/></g>
+<text x="328" y="220" dominant-baseline="middle" font-size="20" fill="#1F2937">开发Agent：编写和修改代码</text>
+<rect x="270" y="270" width="340" height="60" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="300" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,288) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="328" y="289" dominant-baseline="middle" font-size="20" fill="#1F2937">测试Agent：运行测试并报告</text>
+<text x="328" y="311" dominant-baseline="middle" font-size="20" fill="#1F2937">问题</text>
+<rect x="270" y="350" width="340" height="60" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="380" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,368) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="328" y="380" dominant-baseline="middle" font-size="20" fill="#1F2937">开发者审阅差异与边界情况</text>
+<rect x="270" y="430" width="340" height="60" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="460" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,448) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M12 3.2 19.2 6v5.4c0 4.6-3 7.6-7.2 9-4.2-1.4-7.2-4.4-7.2-9V6z"/><path d="M9 12.2l2 2 4-4.2"/></g>
+<text x="328" y="460" dominant-baseline="middle" font-size="20" fill="#1F2937">发布负责人确认部署与回滚</text>
+<rect x="270" y="510" width="340" height="60" rx="8" fill="#EFF7F1" stroke="#CBE3D3" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="540" r="19" fill="#E2F1E8"/>
+<g transform="translate(288,528) scale(1)" fill="none" stroke="#2F8A5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="328" y="540" dominant-baseline="middle" font-size="20" fill="#1F2937">监控运行并收集反馈</text>
+<path d="M440,90 L440,110" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,170 L440,190" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,250 L440,270" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,330 L440,350" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,410 L440,430" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,490 L440,510" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M610,300 L654.7000105999682,371.52001695994915 Q660,380 660,370 L660,310 Q660,300 654.7000105999682,291.52001695994915 L610,220" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<text x="668" y="336" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">发现问题</text>
+</svg>

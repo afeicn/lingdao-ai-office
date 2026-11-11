@@ -20,15 +20,7 @@ AI影响岗位任务，常见的变化有三类：
 
 组织不能只看“这项任务能否被模型做出来”。它还要看任务占一个岗位多少时间、错误后果有多大、人工复核需要多久、服务对象是否接受自动化处理，以及单位有没有合适的系统和数据。技术能完成一项任务，不等于组织会立刻把它全面部署；部署也不等于岗位随即消失。
 
-```mermaid
-flowchart LR
-    A[岗位拆解为具体任务] --> B[自动化：系统办理规则明确的步骤]
-    A --> C[协作：员工审阅AI建议并作判断]
-    A --> D[新增：数据、模型、权限和流程维护]
-    B --> E[重新组合岗位职责]
-    C --> E
-    D --> E
-```
+![f17-1](../figures/f17-1.png)
 
 *图17-1　AI对岗位的影响通常落在任务层面，之后才体现在职责组合变化*
 
@@ -68,11 +60,7 @@ flowchart LR
 >
 > **来源：** [ILO《Generative AI and Jobs: A Refined Global Index of Occupational Exposure》](https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure)。
 
-```mermaid
-flowchart LR
-    A[全球就业人口] --> B[约四分之一<br/>所处职业含有一定AI暴露]
-    B --> C[其中3.3%<br/>处于最高暴露梯度]
-```
+![f17-2](../figures/f17-2.png)
 
 *图17-2　“暴露”衡量职业任务与技术能力的重叠，不等于岗位将被替代。来源：[ILO全球指数](https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure)。*
 
