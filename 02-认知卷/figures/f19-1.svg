@@ -25,21 +25,21 @@
 <circle cx="300" cy="410" r="19" fill="#FBF0D2"/>
 <g transform="translate(288,398) scale(1)" fill="none" stroke="#9A7B22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M12 4.2 21 19.6H3z"/><path d="M12 9.6v4.4M12 16.8v.6"/></g>
 <text x="328" y="410" dominant-baseline="middle" font-size="20" fill="#1F2937">结果稳定且风险可控吗</text>
-<rect x="560" y="490" width="300" height="64" rx="8" fill="#EFF7F1" stroke="#CBE3D3" stroke-width="1" filter="url(#cardShadow)"/>
-<circle cx="590" cy="522" r="19" fill="#E2F1E8"/>
-<g transform="translate(578,510) scale(1)" fill="none" stroke="#2F8A5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="12" cy="12" r="8.4"/><path d="M8.4 12.3l2.5 2.5 4.7-5"/></g>
-<text x="618" y="522" dominant-baseline="middle" font-size="20" fill="#1F2937">整理成团队可复用的方法</text>
-<rect x="560" y="582" width="300" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
-<circle cx="590" cy="614" r="19" fill="#EEF3FE"/>
-<g transform="translate(578,602) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="6" cy="6" r="2.4"/><circle cx="18" cy="18" r="2.4"/><path d="M8.4 6H15a3 3 0 0 1 0 6h-6a3 3 0 0 0 0 6h6.6"/></g>
-<text x="618" y="614" dominant-baseline="middle" font-size="20" fill="#1F2937">评估是否扩展到更多步骤</text>
+<rect x="270" y="490" width="340" height="64" rx="8" fill="#EFF7F1" stroke="#CBE3D3" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="522" r="19" fill="#E2F1E8"/>
+<g transform="translate(288,510) scale(1)" fill="none" stroke="#2F8A5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="12" cy="12" r="8.4"/><path d="M8.4 12.3l2.5 2.5 4.7-5"/></g>
+<text x="328" y="522" dominant-baseline="middle" font-size="20" fill="#1F2937">整理成团队可复用的方法</text>
+<rect x="270" y="582" width="340" height="64" rx="8" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="300" cy="614" r="19" fill="#EEF3FE"/>
+<g transform="translate(288,602) scale(1)" fill="none" stroke="#3E63DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><circle cx="6" cy="6" r="2.4"/><circle cx="18" cy="18" r="2.4"/><path d="M8.4 6H15a3 3 0 0 1 0 6h-6a3 3 0 0 0 0 6h6.6"/></g>
+<text x="328" y="614" dominant-baseline="middle" font-size="20" fill="#1F2937">评估是否扩展到更多步骤</text>
 <path d="M440,98 L440,120" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,184 L440,206" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,270 L440,292" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,356 L440,378" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
-<path d="M440,442 L440,460 Q440,470 450,470 L700,470 Q710,470 710,480 L710,490" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
-<text x="580" y="464" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">是</text>
+<path d="M440,442 L440,490" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<text x="452" y="466" text-anchor="start" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">是</text>
 <path d="M270,410 L215.5447997803503,427.0172500686405 Q206,430 206,420 L206,296 Q206,286 214,280 L270,238" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="196" y="360" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">继续观察</text>
-<path d="M710,554 L710,582" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,554 L440,582" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 </svg>
