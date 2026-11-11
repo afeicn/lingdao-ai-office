@@ -42,9 +42,9 @@
 <path d="M440,250 L440,270" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,330 L440,350" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,410 L440,430" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
-<path d="M440,490 L440,510 Q440,520 450,520 L700,520 Q710,520 710,530 L710,540 Q710,540 NaN,NaN L710,540" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,490 L440,510 Q440,520 450,520 L700,520 Q710,520 710,530 L710,540" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="580" y="512" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">继续</text>
-<path d="M440,490 L440,510 Q440,520 430,520 L190,520 Q180,520 180,530 L180,540 Q180,540 NaN,NaN L180,540" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,490 L440,510 Q440,520 430,520 L190,520 Q180,520 180,530 L180,540" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="320" y="512" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">停止</text>
 <path d="M610,460 L650.7152330911474,443.71390676354105 Q660,440 660,430 L660,192 Q660,182 652.3429513521039,175.56807913576728 L610,140" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="668" y="320" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">调整</text>

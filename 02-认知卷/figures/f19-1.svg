@@ -37,7 +37,7 @@
 <path d="M440,184 L440,206" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,270 L440,292" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,356 L440,378" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
-<path d="M440,442 L440,460 Q440,470 450,470 L700,470 Q710,470 710,480 L710,490 Q710,490 NaN,NaN L710,490" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,442 L440,460 Q440,470 450,470 L700,470 Q710,470 710,480 L710,490" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="580" y="464" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">是</text>
 <path d="M270,410 L215.5447997803503,427.0172500686405 Q206,430 206,420 L206,296 Q206,286 214,280 L270,238" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="196" y="360" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">继续观察</text>

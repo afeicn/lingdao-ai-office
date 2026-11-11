@@ -38,9 +38,9 @@
 <path d="M440,194 L440,220" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,284 L440,310" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,374 L440,400" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
-<path d="M440,464 L440,490 Q440,500 430,500 L180,500 Q170,500 170,510 L170,520 Q170,520 NaN,NaN L170,520" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,464 L440,490 Q440,500 430,500 L180,500 Q170,500 170,510 L170,520" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="300" y="494" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">需要授权</text>
-<path d="M440,464 L440,490 Q440,500 450,500 L735,500 Q745,500 745,510 L745,517 Q745,520 745,517 L745,514" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,464 L440,490 Q440,500 450,500 L735,500 Q745,500 745,510 L745,514" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="600" y="494" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">完成</text>
 <path d="M610,432 L670.5405405405405,452.7567567567568 Q680,456 680,446 L680,282 Q680,272 670.3847605235918,269.2527887210262 L610,252" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="690" y="360" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">继续处理</text>
