@@ -29,18 +29,17 @@
 <circle cx="70" cy="552" r="19" fill="#FBEBD5"/>
 <g transform="translate(58,540) scale(1)" fill="none" stroke="#A9702A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M12 4.2 21 19.6H3z"/><path d="M12 9.6v4.4M12 16.8v.6"/></g>
 <text x="98" y="552" dominant-baseline="middle" font-size="20" fill="#1F2937">等待人工确认</text>
-<rect x="610" y="514" width="270" height="74" rx="8" fill="#EFF7F1" stroke="#CBE3D3" stroke-width="1" filter="url(#cardShadow)"/>
-<circle cx="640" cy="551" r="19" fill="#E2F1E8"/>
-<g transform="translate(628,539) scale(1)" fill="none" stroke="#2F8A5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
-<text x="668" y="540" dominant-baseline="middle" font-size="20" fill="#1F2937">交付文件与待确认事</text>
-<text x="668" y="562" dominant-baseline="middle" font-size="20" fill="#1F2937">项</text>
+<rect x="570" y="520" width="310" height="64" rx="8" fill="#EFF7F1" stroke="#CBE3D3" stroke-width="1" filter="url(#cardShadow)"/>
+<circle cx="600" cy="552" r="19" fill="#E2F1E8"/>
+<g transform="translate(588,540) scale(1)" fill="none" stroke="#2F8A5B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"><path d="M14 3.4H7.2a2 2 0 0 0-2 2v13.2a2 2 0 0 0 2 2h9.6a2 2 0 0 0 2-2V8z"/><path d="M14 3.4V8h4.8"/><path d="M8.8 12.6h6.4M8.8 16h4.4"/></g>
+<text x="628" y="552" dominant-baseline="middle" font-size="20" fill="#1F2937">交付文件与待确认事项</text>
 <path d="M440,104 L440,130" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,194 L440,220" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,284 L440,310" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,374 L440,400" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <path d="M440,464 L440,490 Q440,500 430,500 L180,500 Q170,500 170,510 L170,520" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="300" y="494" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">需要授权</text>
-<path d="M440,464 L440,490 Q440,500 450,500 L735,500 Q745,500 745,510 L745,514" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
+<path d="M440,464 L440,490 Q440,500 450,500 L715,500 Q725,500 725,510 L725,520" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="600" y="494" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">完成</text>
 <path d="M610,432 L670.5405405405405,452.7567567567568 Q680,456 680,446 L680,282 Q680,272 670.3847605235918,269.2527887210262 L610,252" fill="none" stroke="#4A6BF5" stroke-width="1.6" marker-end="url(#ia)"/>
 <text x="690" y="360" text-anchor="middle" font-size="17" fill="#5B6472" stroke="#fff" stroke-width="5" paint-order="stroke">继续处理</text>
