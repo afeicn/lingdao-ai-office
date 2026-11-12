@@ -4,7 +4,7 @@
 
 # 目录
 
-当前发布第一至第十二章。
+全卷共二十章。
 
 ## 准备篇
 
@@ -29,7 +29,17 @@
 ## 阶段三　抽丝剥茧
 
 - [第十二章　「你理理」](03-analysis/12-lili.md)
+- [第十三章　「你盯盯」](03-analysis/13-dingding.md)
+- [第十四章　「你算算」](03-analysis/14-suansuan.md)
+- [第十五章　「你问问」](03-analysis/15-wenwen.md)
+- [第十六章　阶段三进阶课｜工作空间权限与重复流程](03-analysis/16-advanced-workspace.md)
 
-## 后续章节
+## 阶段四　点石成金
 
-第十三至第二十章后续发布。
+- [第十七章　「你画画」](04-creation/17-huahua.md)
+- [第十八章　「你做做」](04-creation/18-zuozuo.md)
+- [第十九章　阶段四进阶课｜跨工具制作与交付](04-creation/19-advanced-delivery.md)
+
+## 综合练习
+
+- [第二十章　综合练习｜三个完整工作案例](05-practice/20-integrated-cases.md)
