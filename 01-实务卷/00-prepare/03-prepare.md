@@ -42,7 +42,7 @@ WorkBuddy 按任务复杂程度提供快速、均衡、极致三种模式。先�
 | 均衡 | 日常文稿起草、材料整理和数据分析 |
 | 极致 | 多步骤推理、复杂条件比较、需要反复验证的分析 |
 
-当前内置模型包括 Hy3、Hy4 preview、GLM-5.3、GLM-5.3-Flash、Deepseek-V4-Flash、Deepseek-V4-Pro 和 Kimi-K3 等。模式与具体模型分别查看，模型名称、可用功能及费用以当前账号显示为准。需要识别图片时，还应确认所选模型支持图片输入。[WorkBuddy 模型配置说明](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model)
+当前内置模型包括 Hy3、Hy4、GLM-5.3、GLM-5.3-Flash、Deepseek-V4-Flash、Deepseek-V4-Pro 和 Kimi-K3 等。模式与具体模型分别查看，模型名称、可用功能及费用以当前账号显示为准。需要识别图片时，还应确认所选模型支持图片输入。[WorkBuddy 模型配置说明](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Model)
 
 登录后没有找到模型选择入口时，可以先查看官方使用说明，核对客户端版本和当前账号可用的功能。
 
